@@ -4,10 +4,6 @@
 
 <p align="center"> Production AI Systems · Distributed Backends · Modern Web Applications · Cloud Infrastructure </p>
 
-<p align="center"> Belgrade, Serbia · 9+ Years of Professional Experience </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dreamboat999&style=flat-square&label=Profile+Views" alt="Profile views" /> <img src="https://img.shields.io/github/followers/dreamboat999?style=flat-square&label=Followers" alt="GitHub followers" /> </p>
-
 <hr />
 
 <h2>About</h2>
