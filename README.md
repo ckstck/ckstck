@@ -1,75 +1,70 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+<h1 align="center">Marko Azirovic</h1>
 
-## 🚀 About Me
+<p align="center"> <strong>Senior AI & Full-Stack Engineer</strong> </p>
 
-I’m **Marko Azirovic**, a **Senior AI & Full-Stack Engineer**.
-I build scalable production applications across **AI, frontend, backend, cloud infrastructure, and data-intensive systems**. My main areas of expertise include:
+<p align="center"> Production AI Systems · Distributed Backends · Modern Web Applications · Cloud Infrastructure </p>
 
-- AI agents and LLM integrations
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing
-- Semantic and hybrid search
-- Real-time web applications
-- Microservices and distributed systems
-- Cloud infrastructure and CI/CD automation
+<p align="center"> Belgrade, Serbia · 9+ Years of Professional Experience </p>
 
-I’ve developed AI-powered platforms using **LangChain, LangGraph, Pinecone, OpenAI, Claude, and Hugging Face**, alongside modern full-stack technologies such as **React, Next.js, TypeScript, Node.js, NestJS, Python, and FastAPI**.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dreamboat999&style=flat-square&label=Profile+Views" alt="Profile views" /> <img src="https://img.shields.io/github/followers/dreamboat999?style=flat-square&label=Followers" alt="GitHub followers" /> </p>
 
-I hold a **Bachelor’s degree in Computer Science** from **Educons University**.
+<hr />
 
-<br>
+<h2>About</h2>
 
-## 🛠️ Technical Skills
+I’m a Senior AI and Full-Stack Engineer focused on building reliable, scalable software for production environments.
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4F00?style=for-the-badge&logo=zapier&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logo=prefect&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=pytest&logoColor=white)
-![Mypy](https://img.shields.io/badge/Mypy-2A6DB2?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+My work spans the full engineering lifecycle, from system architecture and AI integration to frontend development, backend services, infrastructure, testing, and deployment.
+
+I specialize in:
+
+AI agents, LLM integrations, and RAG architectures
+Semantic search, hybrid search, and vector databases
+Distributed systems, microservices, and real-time applications
+Modern React and Next.js frontend development
+High-performance Node.js and Python backend services
+Cloud infrastructure, containerization, and CI/CD automation
+
+I hold a Bachelor’s degree in Computer Science from Educons University.
+
+<h2>Core Technology Stack</h2>
+
+<table> <tr> <td><strong>AI Engineering</strong></td> <td>LangChain, LangGraph, OpenAI, Claude, Hugging Face, LlamaIndex, Pinecone, Weaviate, pgvector</td> </tr> <tr> <td><strong>Languages</strong></td> <td>TypeScript, JavaScript, Python, SQL, HTML, CSS</td> </tr> <tr> <td><strong>Frontend</strong></td> <td>React, Next.js, React Native, Redux, Zustand, React Query, Tailwind CSS, Material UI</td> </tr> <tr> <td><strong>Backend</strong></td> <td>Node.js, NestJS, Express, FastAPI, Django, Flask, REST, GraphQL, gRPC, WebSockets</td> </tr> <tr> <td><strong>Data</strong></td> <td>PostgreSQL, MySQL, MongoDB, Redis, Firebase, Prisma, TypeORM, SQLAlchemy</td> </tr> <tr> <td><strong>Cloud & DevOps</strong></td> <td>AWS, Google Cloud, Docker, Kubernetes, Terraform, GitHub Actions, GitLab CI, Vercel</td> </tr> <tr> <td><strong>Automation</strong></td> <td>Apache Airflow, Prefect, n8n, Zapier, Make</td> </tr> <tr> <td><strong>Testing</strong></td> <td>Jest, Playwright, Pytest, Mypy, automated integration testing</td> </tr> </table>
+
+<h2>Selected Technologies</h2>
+
+<p> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /> <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> </p>
+
+<h2>Engineering Highlights</h2>
+
+Built a real-time RAG platform using LangChain, Pinecone, Redis, Claude, and GPT-4
+Designed conversational AI systems with dynamic prompting and WebSocket-based communication
+Developed scalable data pipelines processing more than 5 million records per month
+Achieved 99.9% production ingestion reliability through resilient retry and anti-blocking strategies
+Reduced third-party AI API usage by 30% through event-driven workflow optimization
+Reduced pull request review cycles by 40% through improved automation and engineering standards
+Built responsive production interfaces using React, Next.js, TypeScript, and Tailwind CSS
+Designed scalable APIs and microservices using Node.js, NestJS, FastAPI, Django, and Flask
+
+<h2>Engineering Focus</h2>
+
+AI Systems
+├── Agentic workflows
+├── Retrieval-Augmented Generation
+├── Semantic and hybrid search
+├── Vector database architecture
+└── LLM evaluation and optimization
+
+Application Engineering
+├── Frontend architecture
+├── Backend services and APIs
+├── Real-time communication
+├── Distributed systems
+└── Data-intensive applications
+
+Platform Engineering
+├── Cloud-native deployment
+├── Container orchestration
+├── Infrastructure automation
+├── CI/CD pipelines
+└── Monitoring and reliability
