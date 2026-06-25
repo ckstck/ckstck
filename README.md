@@ -127,13 +127,6 @@ I hold a **Bachelor’s degree in Computer Science** from **Educons University**
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=dreamboat999&row=1&column=6&margin-h=8&theme=algolia&count_private=true&margin-w=10&no-frame=true"
-    alt="GitHub profile trophies"
-  />
-</p>
-
-<p align="center">
-  <img
     width="360"
     src="https://github-readme-streak-stats.herokuapp.com/?user=dreamboat999&theme=algolia"
     alt="GitHub contribution streak"
