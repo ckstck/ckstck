@@ -16,15 +16,6 @@ I’m a Senior AI and Full-Stack Engineer focused on building reliable, scalable
 
 My work spans the full engineering lifecycle, from system architecture and AI integration to frontend development, backend services, infrastructure, testing, and deployment.
 
-I specialize in:
-
-AI agents, LLM integrations, and RAG architectures
-Semantic search, hybrid search, and vector databases
-Distributed systems, microservices, and real-time applications
-Modern React and Next.js frontend development
-High-performance Node.js and Python backend services
-Cloud infrastructure, containerization, and CI/CD automation
-
 I hold a Bachelor’s degree in Computer Science from Educons University.
 
 <h2>Core Technology Stack</h2>
@@ -45,26 +36,3 @@ Reduced third-party AI API usage by 30% through event-driven workflow optimizati
 Reduced pull request review cycles by 40% through improved automation and engineering standards
 Built responsive production interfaces using React, Next.js, TypeScript, and Tailwind CSS
 Designed scalable APIs and microservices using Node.js, NestJS, FastAPI, Django, and Flask
-
-<h2>Engineering Focus</h2>
-
-AI Systems
-├── Agentic workflows
-├── Retrieval-Augmented Generation
-├── Semantic and hybrid search
-├── Vector database architecture
-└── LLM evaluation and optimization
-
-Application Engineering
-├── Frontend architecture
-├── Backend services and APIs
-├── Real-time communication
-├── Distributed systems
-└── Data-intensive applications
-
-Platform Engineering
-├── Cloud-native deployment
-├── Container orchestration
-├── Infrastructure automation
-├── CI/CD pipelines
-└── Monitoring and reliability
